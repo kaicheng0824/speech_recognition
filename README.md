@@ -48,3 +48,6 @@ deepspeech --model ../.local/share/deepspeech/checkpoints/best_dev-112 --scorer 
 ```
 python ../DeepSpeech/DeepSpeech.py --train_files ./data/CV/en/clips/train.csv --dev_files ./data/CV/en/clips/dev.csv --test_files ./data/CV/en/clips/test.csv --export_dir ../export
 ```
+
+# Useful Resources
+(DeepSpeech Playbook)[https://mozilla.github.io/deepspeech-playbook/]
