@@ -51,3 +51,4 @@ python ../DeepSpeech/DeepSpeech.py --train_files ./data/CV/en/clips/train.csv --
 
 # Useful Resources
 [DeepSpeech Playbook](https://mozilla.github.io/deepspeech-playbook/)
+https://doccano.herokuapp.com/demo/speech-to-text
