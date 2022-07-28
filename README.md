@@ -50,4 +50,4 @@ python ../DeepSpeech/DeepSpeech.py --train_files ./data/CV/en/clips/train.csv --
 ```
 
 # Useful Resources
-(DeepSpeech Playbook)[https://mozilla.github.io/deepspeech-playbook/]
+[DeepSpeech Playbook](https://mozilla.github.io/deepspeech-playbook/)
